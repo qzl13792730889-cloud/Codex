@@ -1,0 +1,8 @@
+stage_z_nm,image_path
+-300,scan/z_-300.tif
+-200,scan/z_-200.tif
+-100,scan/z_-100.tif
+0,scan/z_+0.tif
+100,scan/z_+100.tif
+200,scan/z_+200.tif
+300,scan/z_+300.tif

@@ -1,0 +1,5 @@
+﻿image,status,reference_id,ncc,radial_correlation,shift_dx_px,shift_dy_px,alignment_at_limit,quality_ok,threshold,matches_threshold,warnings,error
+current_same_pattern.tif,ok,ecbff57f924b2e7d,0.9999998483697696,0.999999991066335,0.0,0.0,False,True,,,跨珠图样相似度不等于相同物理 Z；正式轨迹测量仍需为本组珠建立高度图像库。,
+current_different_ring.tif,ok,ecbff57f924b2e7d,0.49949669937769337,0.4985627415636935,0.0,0.0,False,True,,,跨珠图样相似度不等于相同物理 Z；正式轨迹测量仍需为本组珠建立高度图像库。,
+current_offset_center.tif,ok,ecbff57f924b2e7d,0.9997827269808819,0.9999987860978683,0.0,0.0,False,True,,,跨珠图样相似度不等于相同物理 Z；正式轨迹测量仍需为本组珠建立高度图像库。,
+current_offset_center.tif,ok,ecbff57f924b2e7d,0.9997813448275341,0.9999988201099794,2.3967449350576815,-1.6539602006793899,False,True,,,跨珠图样相似度不等于相同物理 Z；正式轨迹测量仍需为本组珠建立高度图像库。,

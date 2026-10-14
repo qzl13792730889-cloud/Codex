@@ -1,0 +1,99 @@
+{
+  "reference_id": "ecbff57f924b2e7d",
+  "best_sampled_stage_z_nm": 0.0,
+  "interpolated_stage_z_nm": 0.00494118535745217,
+  "best_radial_correlation": 0.9999999999999999,
+  "peak_at_edge": false,
+  "ambiguous_peak": false,
+  "warnings": [
+    "返回的是输入扫描坐标中最匹配图样的位置，不是相对于另一颗珠的物理 Z 偏移。"
+  ],
+  "curve": [
+    {
+      "stage_z_nm": -300.0,
+      "radial_correlation": 0.3282318063696878
+    },
+    {
+      "stage_z_nm": -200.0,
+      "radial_correlation": 0.6587298680602748
+    },
+    {
+      "stage_z_nm": -100.0,
+      "radial_correlation": 0.9070511116875664
+    },
+    {
+      "stage_z_nm": 0.0,
+      "radial_correlation": 0.9999999999999999
+    },
+    {
+      "stage_z_nm": 100.0,
+      "radial_correlation": 0.9070694809796814
+    },
+    {
+      "stage_z_nm": 200.0,
+      "radial_correlation": 0.6587403574377217
+    },
+    {
+      "stage_z_nm": 300.0,
+      "radial_correlation": 0.32825777230497616
+    }
+  ],
+  "frames": [
+    {
+      "stage_z_nm": -300.0,
+      "image": "scan/z_-300.tif",
+      "ncc": 0.3319486982879254,
+      "radial_correlation": 0.3282318063696878,
+      "shift_dx_px": 0.0,
+      "shift_dy_px": 0.0
+    },
+    {
+      "stage_z_nm": -200.0,
+      "image": "scan/z_-200.tif",
+      "ncc": 0.6609110418516428,
+      "radial_correlation": 0.6587298680602748,
+      "shift_dx_px": 0.0,
+      "shift_dy_px": 0.0
+    },
+    {
+      "stage_z_nm": -100.0,
+      "image": "scan/z_-100.tif",
+      "ncc": 0.907570019681879,
+      "radial_correlation": 0.9070511116875664,
+      "shift_dx_px": 0.0,
+      "shift_dy_px": 0.0
+    },
+    {
+      "stage_z_nm": 0.0,
+      "image": "scan/z_+0.tif",
+      "ncc": 1.0,
+      "radial_correlation": 0.9999999999999999,
+      "shift_dx_px": 0.0,
+      "shift_dy_px": 0.0
+    },
+    {
+      "stage_z_nm": 100.0,
+      "image": "scan/z_+100.tif",
+      "ncc": 0.9073852270292133,
+      "radial_correlation": 0.9070694809796814,
+      "shift_dx_px": 0.0,
+      "shift_dy_px": 0.0
+    },
+    {
+      "stage_z_nm": 200.0,
+      "image": "scan/z_+200.tif",
+      "ncc": 0.6596067336447525,
+      "radial_correlation": 0.6587403574377217,
+      "shift_dx_px": 0.0,
+      "shift_dy_px": 0.0
+    },
+    {
+      "stage_z_nm": 300.0,
+      "image": "scan/z_+300.tif",
+      "ncc": 0.3288168276276828,
+      "radial_correlation": 0.32825777230497616,
+      "shift_dx_px": 0.0,
+      "shift_dy_px": 0.0
+    }
+  ]
+}

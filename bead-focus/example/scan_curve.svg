@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+<rect width="720" height="420" fill="white"/><g font-family="Arial" fill="#1e293b">
+<text x="80" y="30" font-size="18">Radial correlation vs. supplied stage Z</text>
+<path d="M80 60V330H650" stroke="#334155" fill="none"/>
+<polyline points="80.00,311.30 175.00,187.66 270.00,94.77 365.00,60.00 460.00,94.76 555.00,187.66 650.00,311.29" fill="none" stroke="#2463eb" stroke-width="2"/><circle cx="80.00" cy="311.30" r="4" fill="#2463eb"/><circle cx="175.00" cy="187.66" r="4" fill="#2463eb"/><circle cx="270.00" cy="94.77" r="4" fill="#2463eb"/><circle cx="365.00" cy="60.00" r="4" fill="#2463eb"/><circle cx="460.00" cy="94.76" r="4" fill="#2463eb"/><circle cx="555.00" cy="187.66" r="4" fill="#2463eb"/><circle cx="650.00" cy="311.29" r="4" fill="#2463eb"/>
+<text x="80" y="355">-300</text><text x="620" y="355">300</text>
+<text x="15" y="65">1.000</text><text x="15" y="330">0.278</text>
+<text x="300" y="383">Stage position (nm)</text>
+<text x="90" y="407" font-size="12">Cross-bead matching does not establish equal physical bead Z.</text></g></svg>
